@@ -37,3 +37,4 @@ console.log(result); //1020
 let str1 = "10";
 let strToNum1 = Number(str1);
 console.log(10 + strToNum1);
+
