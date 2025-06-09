@@ -17,3 +17,19 @@ let obj2 = {
     c:3,
     d:4
 };
+
+/**
+ * rest 매개변수
+ * 나머지 매개변수라고도 한다.
+ */
+
+function funcB(...rest){
+
+}//rest = 1,2,3
+
+function funcB1(one,...rest){
+
+}//one = 1, rest = 2,3
+funcB(...arr1);
+
+
