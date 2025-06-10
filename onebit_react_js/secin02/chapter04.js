@@ -33,3 +33,4 @@ function funcB1(one,...rest){
 funcB(...arr1);
 
 
+
