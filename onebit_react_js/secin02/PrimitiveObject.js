@@ -40,4 +40,4 @@ let o7 = {...o5};
 console.log(o5===o6); //true
 console.log(o5===o7); //false
 
-console.log(JSON.stringify(o5) === JSON.stringify(o7)) // true
+console.log(JSON.stringify(o5) === JSON.stringify(o7)); // true
